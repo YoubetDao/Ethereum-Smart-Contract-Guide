@@ -1,4 +1,4 @@
-# Mastering Ethereum Smart Contract Development: A Step-by-Step Guide
+# Ethereum Smart Contract Guide
 [中文](./README-CHINESE.md)
 
 Welcome to the Ethereum-Smart-Contract-Guide!
