@@ -1,7 +1,7 @@
-# EVM Internal Principles
+# Mastering Ethereum Smart Contract Development: A Step-by-Step Guide
 [中文](./README-CHINESE.md)
 
-Welcome to the **EVM-Internal** tutorial ! 
+Welcome to the Ethereum-Smart-Contract-Guide!
 This guide is designed to teach you master the **basic** and **complete** process of smart contract development (writing, deploying, testing, and calling contracts).
 
 This tutorial does not aim for comprehensive knowledge, but follows Elon Musk's learning method: building a knowledge syntax tree.
