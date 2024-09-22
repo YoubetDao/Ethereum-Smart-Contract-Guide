@@ -32,7 +32,13 @@ describe("Lock", function () {
       const { todo } = await loadFixture(deployTodo);
 
       const taskContent = "Write a contract of todo list";
+      const nextTaskId = await todo.nextTaskId();
+
       await expect(todo.createTask(taskContent)).to.not.be.rejected;
+
+      const result = await todo.tasks(nextTaskId);
+      expect(result.id).to.eq(nextTaskId);
+      expect(result.content).to.eq(taskContent);
     });
 
     it("Should emit an event", async function () {
