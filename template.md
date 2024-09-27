@@ -1,20 +1,22 @@
-### About This Section
+# <Title>
+
+## About This Section
 
 ...xxx
 
-### Content...
+## Content...
 
 ...xxx
 
-### Content...
+## Content...
 
 ...xxx
 
-### Summary
+## Summary
 
 In this section, ...
 
-#### Additional Resources
+## Additional Resources
 
 1. xxx
 
