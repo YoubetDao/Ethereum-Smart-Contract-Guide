@@ -1,5 +1,4 @@
-# Ethereum Smart Contract Guide
-[中文](./src/zh/README.md)
+# Introduction
 
 Welcome to the Ethereum-Smart-Contract-Guide!
 This guide is designed to teach you master the **basic** and **complete** process of smart contract development (writing, deploying, testing, and calling contracts).
