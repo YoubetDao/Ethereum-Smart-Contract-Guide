@@ -1,0 +1,6 @@
+[book]
+authors = ["Youbet Study Group"]
+language = "en"
+multilingual = false
+src = "src/en/"
+title = "Ethereum-Smart-Contract-Guide"
