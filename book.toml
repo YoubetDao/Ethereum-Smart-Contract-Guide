@@ -2,5 +2,5 @@
 authors = ["Youbet Study Group"]
 language = "en"
 multilingual = false
-src = "src/en/"
+src = "src/zh/"
 title = "Ethereum-Smart-Contract-Guide"
