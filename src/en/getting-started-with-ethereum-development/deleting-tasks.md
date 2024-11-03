@@ -2,7 +2,7 @@
 
 ## About This Section
 
-Imagine you created a new task in a `TODO` application, only to find out there was a typo, making the task description inaccurate. To keep the task list tidy and accurate, we need a way to delete these invalid tasks.
+Imagine you created a new task in a [TODO](../../../example/solidity_todo_example/contracts/Todo.sol) application, only to find out there was a typo, making the task description inaccurate. To keep the task list tidy and accurate, we need a way to delete these invalid tasks.
 
 In this section, we will learn how to implement task deletion functionality in a contract.
 
