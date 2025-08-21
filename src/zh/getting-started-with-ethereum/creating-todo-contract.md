@@ -33,9 +33,9 @@ contract TodoList {
 
 **`pragma solidity ^0.8.24;`**：这是 Solidity 版本声明. ^ 是称为“插入符”（caret）的符号，用来指定 Solidity 编译器版本的兼容性. 该行语言是: 至少是 0.8.24，但 小于 0.9.0 的任意版本。
 
-**如何设置合适的版本呢?** 如果你使用 hardhat , 参考 `hardhat.config.ts` 中 `solidity.compilers.version` 字段, 保持一致即可。
+**如何设置合适的版本呢?** 如果你使用 hardhat，参考 `hardhat.config.ts` 中 `solidity.compilers.version` 字段, 保持一致即可。
 
-**`contract TodoList`**：这是合约的声明. **contract** 是一个关键字, 用来定义一个智能合约, 它类似于编程中的类（class）。`TodoList` 是合约的名称, 合约的功能将在这个结构内实现。
+**`contract TodoList`**：这是合约的声明. **contract** 是一个关键字，用来定义一个智能合约，它类似于编程中的类（class）。`TodoList` 是合约的名称，合约的功能将在这个结构内实现。
 
 ## 小结
 
